@@ -7,7 +7,7 @@ Well, look no further, as the **LinAlg-O-Tron-3000** is here to spice up your te
 Although they are not colorful (yet) and they are not moving (yet), these shapes are sure fun to look at, so try it today!
 
 
-![Demo](LinAlg-O-Tron-3000_demo.gif)
+
 
 
 ### What is the LinAlg-O-Tron-3000?
