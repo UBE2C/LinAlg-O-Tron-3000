@@ -1,7 +1,7 @@
 # LinAlg-O-Tron-3000
 
-Are you tired of staring at long lines of text and numbers, God forbid hex dumps, in your terminal all day? </d>
-Wouldn't it be better to stare at colorful, rotating, scaling and moving shapes instead? </d>
+Are you tired of staring at long lines of text and numbers, God forbid hex dumps, in your terminal all day? <br />
+Wouldn't it be better to stare at colorful, rotating, scaling and moving shapes instead? <br />
 
 Well, look no further, as the **LinAlg-O-Tron-3000** is here to spice up your terminal-staring session!
 Although they are not colorful (yet) and they are not moving (yet), these shapes are sure fun to look at, so try it today!
@@ -11,8 +11,8 @@ Although they are not colorful (yet) and they are not moving (yet), these shapes
 
 
 ### What is the LinAlg-O-Tron-3000?
-It is a lightweight, terminal-based Python renderer that visualizes 2D polygon transformations using linear algebra, integer grids, and Braille characters for a retro graphics feel. </d>
-It is intended to be a fun side project through which I'm practicing the basics of linear algebra, 2D graphics and rendering. </d>
+It is a lightweight, terminal-based Python renderer that visualizes 2D polygon transformations using linear algebra, integer grids, and Braille characters for a retro graphics feel. <br />
+It is intended to be a fun side project through which I'm practicing the basics of linear algebra, 2D graphics and rendering. <br />
 
 ### What is to come?
 Planned features and improvements include:
@@ -20,6 +20,6 @@ Planned features and improvements include:
 - Adding color to the shapes.
 - Introducing a fixed rendering border instead of dynamic draw-matrix scaling
 - I want to add a few more transformations like x/y axial rotation and translation.
-</d>
+<br />
 
 If you want to play with it or help me out with some of these features, please feel free to jump in :)
